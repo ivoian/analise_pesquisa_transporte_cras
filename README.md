@@ -16,3 +16,5 @@ Gráficos em formato de histograma representando:
 Frequência de cada alternativa em cada questão.
 
 Comparativo visual entre as opções mais escolhidas.
+
+<img width="1389" height="790" alt="Grafico_Satisfacao_Transporte_CRAS" src="https://github.com/user-attachments/assets/d68aa3a1-c5f1-4275-a032-757ae369142a" />

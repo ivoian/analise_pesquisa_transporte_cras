@@ -8,12 +8,12 @@ Este projeto tem como objetivo automatizar o processamento de formulários respo
 	•	Apresentar visualmente a opinião dos participantes sobre os serviços oferecidos.
 
 # # Funcionalidades
-	•	Leitura automática de imagens de questionários (formato PNG ou JPG).
-	•	Geração de histogramas com base na frequência de respostas por questão.
-	•	Visualização gráfica comparativa entre as alternativas mais escolhidas.
+•	Leitura automática de imagens de questionários (formato PNG ou JPG).
+•	Geração de histogramas com base na frequência de respostas por questão.
+•	Visualização gráfica comparativa entre as alternativas mais escolhidas.
 
 # # Dados de Entrada
-	•	Imagens digitalizadas dos formulários respondidos (formatos .png ou .jpg), contendo as marcações feitas pelos usuários.
+!Imagens digitalizadas dos formulários respondidos (formatos .png ou .jpg), contendo as marcações feitas pelos usuários.
 
 # # Saídas
 - Gráficos de histograma que representam:
